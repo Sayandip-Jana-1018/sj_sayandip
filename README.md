@@ -41,6 +41,9 @@
   <code><img title="VueJs" height="23" src="images/vuejs.png"></code>
   <code><img title="Python" height="25" src="images/python.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="npm" height="25" src="images/node.png"></code>
+  <code><img title="npm" height="25" src="images/mongo.jpg"></code>
+  <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="26" src="images/html5.svg"></code>
   <code><img title="CSS" height="28" src="images/css.svg"></code>
