@@ -95,7 +95,7 @@
   <a align="left" href="https://github.com/Sayandip-Jana-1018/Data-Science-Assignment-4" title="Data Science Assignment 4"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sayandip-Jana-1018&repo=Data-Science-Assignment-4&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-<a align="left" href="https://github.com/Sayandip-Jana-1018/Data-Science-Assignment-2" title="Data Science Assignment 2"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sayandip-Jana-1018&repo=Data-Science-Assignment-2&theme=react&border_color=61dafb&border_radius=10"></a>
+<a align="left" href="https://github.com/Sayandip-Jana-1018/OnDemandHackathon" title="Data Science Assignment 2"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sayandip-Jana-1018&repo=Data-Science-Assignment-2&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="left" href="https://github.com/Sayandip-Jana-1018/MyOwnGPT" title="MyOwnGPT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sayandip-Jana-1018&repo=MyOwnGPT&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
