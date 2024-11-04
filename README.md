@@ -24,50 +24,62 @@
   💻 I have a passion for coding and enjoy learning new technologies.
   <br>
   <br>
-  📚 Currently, I'm learning Machine Learning Algorithms to try and merge them with my projects.
+  📚 Currently, I'm learning Machine Learning Algorithms to merge them with my projects.
   <br>
   <br>
   💬 Feel free to ask me anything on my <a href="https://github.com/Sayandip-Jana-1018/sj_sayandip/issues" title="GitHub Issues">GitHub page</a>.
   <br>
-  📫 You can reach me via email at <a href="mailto: jsupriti3434@gmail.com">jsupriti3434@gmail.com</a>.
+  📫 You can reach me via email at <a href="mailto:jsupriti3434@gmail.com">jsupriti3434@gmail.com</a>.
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Skills & Technologies 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="VueJs" height="23" src="images/vuejs.png"></code>
-  <code><img title="Python" height="25" src="images/python.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="npm" height="25" src="images/node.png"></code>
-  <code><img title="npm" height="25" src="images/mongo.jpg"></code>
-  <code><img title="npm" height="25" src="images/express.png"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="26" src="images/html5.svg"></code>
-  <code><img title="CSS" height="28" src="images/css.svg"></code>
-  <code><img title="ThreeJS" height="25" src="images/three.png"></code>
-  <code><img title="Jupyter" height="24" src="images/jupyter.png"></code>
+  <strong>Web Development:</strong> <br>
+  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS3" height="28" src="images/css.svg"></code>
+  <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
   <code><img title="React" height="25" src="images/react.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="MaterialUi" height="25" src="images/material.png"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="Vite" height="25" src="images/vite.jpg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="Vue.js" height="23" src="images/vuejs.png"></code>
+  <code><img title="Node.js" height="25" src="images/node.png"></code>
+  <code><img title="Express.js" height="25" src="images/express.png"></code>
+  <code><img title="Bootstrap" height="25" src="images/bootstrap.svg"></code>
+  <code><img title="Tailwind CSS" height="25" src="images/tailwind.svg"></code>
+  <code><img title="Material UI" height="25" src="images/material.png"></code>
+  <br>
+  <strong>Data Science & Machine Learning:</strong> <br>
+  <code><img title="Python" height="25" src="images/python.svg"></code>
+  <code><img title="Pandas" height="25" src="images/pandas.svg"></code>
+  <code><img title="NumPy" height="25" src="images/numpy.svg"></code>
+  <code><img title="Scikit-Learn" height="25" src="images/scikit-learn.svg"></code>
+  <code><img title="TensorFlow" height="25" src="images/tensorflow.svg"></code>
+  <code><img title="Keras" height="25" src="images/keras.svg"></code>
+  <code><img title="Matplotlib" height="25" src="images/matplotlib.svg"></code>
+  <code><img title="Seaborn" height="25" src="images/seaborn.svg"></code>
+  <br>
+  <strong>Database Technologies:</strong> <br>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
+  <code><img title="MongoDB" height="25" src="images/mongo.jpg"></code>
+  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
+  <br>
+  <strong>Version Control:</strong> <br>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <br>
+  <strong>Tools & IDEs:</strong> <br>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="Jupyter Notebook" height="24" src="images/jupyter.png"></code>
+  <code><img title="Vite" height="25" src="images/vite.jpg"></code>
 </p>
 <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Sayandip-Jana-1018&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Sayandip-Jana-1018&theme=react&border=61dafb&hide_border=true" alt="Streak Stats" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Sayandip-Jana-1018&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
@@ -80,27 +92,25 @@
     </a>
   </div>
   <br>
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayandip-Jana-1018&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"/>
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="center">👨‍💻 Projects 👨‍💻</h2>
 <br>
-<a align="left" href="https://github.com/Sayandip-Jana-1018/Data-Science-Assignment-1" title="Data Science Assignment 1"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sayandip-Jana-1018&repo=Data-Science-Assignment-1&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="left" href="https://github.com/Sayandip-Jana-1018/FirstReactApp" title="FirstReactApp"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sayandip-Jana-1018&repo=FirstReactApp&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<a align="left" href="https://github.com/Sayandip-Jana-1018/ThreeJS" title="ThreeJS"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sayandip-Jana-1018&repo=ThreeJS&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="left" href="https://github.com/Sayandip-Jana-1018/Data-Science-Assignment-4" title="Data Science Assignment 4"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sayandip-Jana-1018&repo=Data-Science-Assignment-4&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<a align="left" href="https://github.com/Sayandip-Jana-1018/OnDemandHackathon" title="OnDemandHackathon"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sayandip-Jana-1018&repo=OnDemandHackathon&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="left" href="https://github.com/Sayandip-Jana-1018/MyOwnGPT" title="MyOwnGPT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sayandip-Jana-1018&repo=MyOwnGPT&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
+<p align="center">
+  <a href="https://github.com/Sayandip-Jana-1018/Data-Science-Assignment-1" title="Data Science Assignment 1"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sayandip-Jana-1018&repo=Data-Science-Assignment-1&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/Sayandip-Jana-1018/FirstReactApp" title="FirstReactApp"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sayandip-Jana-1018&repo=FirstReactApp&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/Sayandip-Jana-1018/ThreeJS" title="ThreeJS"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sayandip-Jana-1018&repo=ThreeJS&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/Sayandip-Jana-1018/Todo-App" title="Todo App"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sayandip-Jana-1018&repo=Todo-App&theme=react&border_color=61dafb&border_radius=10"></a>
+</p>
 
-<h4 align="center">
-  <a href="https://github.com/Sayandip-Jana-1018?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4> 
+<hr>
+<h2 align="center">📫 Reach Out to Me 📫</h2>
+<p align="center">
+  <a href="mailto:jsupriti3434@gmail.com">✉️ jsupriti3434@gmail.com</a>
+</p>
 
+<p align="center">
+  <img width="300" src="images/contact.svg" alt="Contact">
+</p>
