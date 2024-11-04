@@ -32,46 +32,46 @@
   📫 You can reach me via email at <a href="mailto:jsupriti3434@gmail.com">jsupriti3434@gmail.com</a>.
 </p>
 
-<hr>
 <h2 align="center">🔥 Skills & Technologies 🔥</h2>
 <br>
 <p align="center">
   <strong>Web Development:</strong> <br>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS3" height="28" src="images/css.svg"></code>
-  <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
-  <code><img title="React" height="25" src="images/react.svg"></code>
-  <code><img title="Vue.js" height="23" src="images/vuejs.png"></code>
-  <code><img title="Node.js" height="25" src="images/node.png"></code>
-  <code><img title="Express.js" height="25" src="images/express.png"></code>
-  <code><img title="Bootstrap" height="25" src="images/bootstrap.svg"></code>
-  <code><img title="Tailwind CSS" height="25" src="images/tailwind.svg"></code>
-  <code><img title="Material UI" height="25" src="images/material.png"></code>
+  <code><img title="HTML5" height="25" src="https://img.icons8.com/color/48/000000/html-5.svg"></code>
+  <code><img title="CSS3" height="28" src="https://img.icons8.com/color/48/000000/css3.png"></code>
+  <code><img title="JavaScript" height="25" src="https://img.icons8.com/color/48/000000/javascript.png"></code>
+  <code><img title="React" height="25" src="https://img.icons8.com/color/48/000000/react-native.png"></code>
+  <code><img title="Vue.js" height="23" src="https://img.icons8.com/color/48/000000/vue-js.png"></code>
+  <code><img title="Node.js" height="25" src="https://img.icons8.com/color/48/000000/nodejs.png"></code>
+  <code><img title="Express.js" height="25" src="https://img.icons8.com/color/48/000000/express.png"></code>
+  <code><img title="Bootstrap" height="25" src="https://img.icons8.com/bootstrap/48/000000/bootstrap.png"></code>
+  <code><img title="Tailwind CSS" height="25" src="https://img.icons8.com/color/48/000000/tailwindcss.png"></code>
+  <code><img title="Material UI" height="25" src="https://img.icons8.com/material-outlined/48/000000/material-design.png"></code>
   <br>
   <strong>Data Science & Machine Learning:</strong> <br>
-  <code><img title="Python" height="25" src="images/python.svg"></code>
-  <code><img title="Pandas" height="25" src="images/pandas.svg"></code>
-  <code><img title="NumPy" height="25" src="images/numpy.svg"></code>
-  <code><img title="Scikit-Learn" height="25" src="images/scikit-learn.svg"></code>
-  <code><img title="TensorFlow" height="25" src="images/tensorflow.svg"></code>
-  <code><img title="Keras" height="25" src="images/keras.svg"></code>
-  <code><img title="Matplotlib" height="25" src="images/matplotlib.svg"></code>
-  <code><img title="Seaborn" height="25" src="images/seaborn.svg"></code>
+  <code><img title="Python" height="25" src="https://img.icons8.com/color/48/000000/python.png"></code>
+  <code><img title="Pandas" height="25" src="https://img.icons8.com/color/48/000000/pandas.png"></code>
+  <code><img title="NumPy" height="25" src="https://img.icons8.com/ios-filled/50/000000/numpy.png"></code>
+  <code><img title="Scikit-Learn" height="25" src="https://img.icons8.com/color/48/000000/scikit-learn.png"></code>
+  <code><img title="TensorFlow" height="25" src="https://img.icons8.com/color/48/000000/tensorflow.png"></code>
+  <code><img title="Keras" height="25" src="https://img.icons8.com/color/48/000000/keras.png"></code>
+  <code><img title="Matplotlib" height="25" src="https://img.icons8.com/color/48/000000/matplotlib.png"></code>
+  <code><img title="Seaborn" height="25" src="https://img.icons8.com/color/48/000000/seaborn.png"></code>
   <br>
   <strong>Database Technologies:</strong> <br>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="MongoDB" height="25" src="images/mongo.jpg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
+  <code><img title="MySQL" height="25" src="https://img.icons8.com/color/48/000000/mysql-logo.png"></code>
+  <code><img title="MongoDB" height="25" src="https://img.icons8.com/color/48/000000/mongodb.png"></code>
+  <code><img title="PostgreSQL" height="25" src="https://img.icons8.com/color/48/000000/postgreesql.png"></code>
   <br>
   <strong>Version Control:</strong> <br>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="Git" height="25" src="https://img.icons8.com/color/48/000000/git.png"></code>
+  <code><img title="GitHub" height="25" src="https://img.icons8.com/material-outlined/48/000000/github.png"></code>
   <br>
   <strong>Tools & IDEs:</strong> <br>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Jupyter Notebook" height="24" src="images/jupyter.png"></code>
-  <code><img title="Vite" height="25" src="images/vite.jpg"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"></code>
+  <code><img title="Jupyter Notebook" height="24" src="https://img.icons8.com/color/48/000000/jupyter.png"></code>
+  <code><img title="Vite" height="25" src="https://img.icons8.com/color/48/000000/vite.png"></code>
 </p>
+
 <hr>
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
