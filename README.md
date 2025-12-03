@@ -1,116 +1,138 @@
+<!-- Beautiful Animated Intro -->
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Sayandip+Jana....;Nice+to+meet+you!&center=true&size=25">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00AEEF&center=true&vCenter=true&width=600&lines=Hello+There!+👋;I'm+Sayandip+Jana;Full+Stack+Developer+%26+ML+Enthusiast;Welcome+to+my+GitHub!">
 </h1>
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/jsayandip2003/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/profile/jsupriti3434" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/23027011/sayandip-jana" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/sj_sayandip/?hl=en" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>
+<!-- Socials -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/jsayandip2003/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.hackerrank.com/profile/jsupriti3434"><img height="30" src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
+  <a href="https://stackoverflow.com/users/23027011/sayandip-jana"><img height="30" src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
+  <a href="https://www.instagram.com/sj_sayandip/"><img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
+
 <br>
+
+<!-- About Section -->
+## 🌈 **About Me**
 <p align="center">
-  Hi, I'm Sayandip Jana, a Full Stack Web Developer and aspiring Data Scientist.
-  <br>
-  <br>
-  🎓 I achieved 95% in my class XII Boards and 96% in class X Boards from Contai Public School.
-  <br>
-  <br>
-  🎓 Currently, I'm pursuing a Bachelor of Technology (CSE) at Lovely Professional University, Punjab.
-  <br>
-  <br>
-  💻 I have a passion for coding and enjoy learning new technologies.
-  <br>
-  <br>
-  📚 Currently, I'm learning Machine Learning Algorithms to merge them with my projects.
-  <br>
-  <br>
-  💬 Feel free to ask me anything on my <a href="https://github.com/Sayandip-Jana-1018/sj_sayandip/issues" title="GitHub Issues">GitHub page</a>.
-  <br>
-  📫 You can reach me via email at <a href="mailto:jsupriti3434@gmail.com">jsupriti3434@gmail.com</a>.
+  Hi! I'm <strong>Sayandip Jana</strong>, a passionate <strong>Full Stack Developer</strong> and <strong>Aspiring Data Scientist</strong> from India.<br><br>
+  
+  ✨ I love building real-world applications powered by AI & modern tech.<br>
+  🎓 Scored <strong>95% in Class XII</strong> and <strong>96% in Class X</strong> (Contai Public School).<br>
+  🎓 Currently pursuing <strong>B.Tech CSE</strong> at Lovely Professional University.<br>
+  💡 Always curious & continuously exploring Machine Learning, Deep Learning, Cloud & Scalable Backend Systems.<br><br>
+
+  📬 Reach me at: <strong><a href="mailto:jsupriti3434@gmail.com">jsupriti3434@gmail.com</a></strong>
 </p>
 
-<h2 align="center">🔥 Skills & Technologies 🔥</h2>
+---
+
+<!-- Skills Section -->
+## 🚀 **Skills & Technologies**
+
+### 🧑‍💻 **Web Development**
+<p align="center">
+  <img height="30" src="https://img.icons8.com/color/48/html-5.png"/>
+  <img height="30" src="https://img.icons8.com/color/48/css3.png"/>
+  <img height="30" src="https://img.icons8.com/color/48/javascript.png"/>
+  <img height="30" src="https://img.icons8.com/color/48/react-native.png"/>
+  <img height="30" src="https://img.icons8.com/color/48/nodejs.png"/>
+  <img height="30" src="https://img.icons8.com/fluency/48/express-js.png"/>
+  <img height="30" src="https://img.icons8.com/color/48/tailwindcss.png"/>
+  <img height="30" src="https://img.icons8.com/color/48/bootstrap.png"/>
+</p>
+
+### 🤖 **Machine Learning / Data Science**
+<p align="center">
+  <img height="30" src="https://img.icons8.com/color/48/python.png"/>
+  <img height="30" src="https://img.icons8.com/color/48/pandas.png"/>
+  <img height="30" src="https://img.icons8.com/color/48/numpy.png"/>
+  <img height="30" src="https://img.icons8.com/color/48/scikit-learn.png"/>
+  <img height="30" src="https://img.icons8.com/color/48/tensorflow.png"/>
+  <img height="30" src="https://img.icons8.com/color/48/keras.png"/>
+  <img height="30" src="https://img.icons8.com/color/48/matplotlib.png"/>
+</p>
+
+### 🗄️ **Databases**
+<p align="center">
+  <img height="30" src="https://img.icons8.com/color/48/mysql-logo.png"/>
+  <img height="30" src="https://img.icons8.com/color/48/mongodb.png"/>
+  <img height="30" src="https://img.icons8.com/color/48/postgreesql.png"/>
+</p>
+
+### 🛠 **Tools & IDEs**
+<p align="center">
+  <img height="30" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+  <img height="30" src="https://img.icons8.com/color/48/jupyter.png"/>
+  <img height="30" src="https://img.icons8.com/color/48/vite.png"/>
+  <img height="30" src="https://img.icons8.com/color/48/git.png"/>
+  <img height="30" src="https://img.icons8.com/material-outlined/48/github.png"/>
+</p>
+
+---
+
+## 🔥 **Top Projects You Must Check Out**
+
+<p align="center">
+  
+  <!-- AutoML -->
+  <a href="https://github.com/Sayandip-Jana-1018/AutoML">
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Sayandip-Jana-1018&repo=AutoML&theme=react&border_color=61dafb&border_radius=12"/>
+  </a>
+
+  <!-- DiseaseX -->
+  <a href="https://github.com/Sayandip-Jana-1018/DiseaseX">
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Sayandip-Jana-1018&repo=DiseaseX&theme=react&border_color=61dafb&border_radius=12"/>
+  </a>
+
+  <!-- ProctoAi -->
+  <a href="https://github.com/Sayandip-Jana-1018/ProctoAi">
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Sayandip-Jana-1018&repo=ProctoAi&theme=react&border_color=61dafb&border_radius=12"/>
+  </a>
+
+  <!-- Portfolio SJ -->
+  <a href="https://github.com/Sayandip-Jana-1018/PortFolio-SJ">
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Sayandip-Jana-1018&repo=PortFolio-SJ&theme=react&border_color=61dafb&border_radius=12"/>
+  </a>
+
+  <!-- ConfiOrato AI -->
+  <a href="https://github.com/Sayandip-Jana-1018/ConfiOrato-Ai">
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Sayandip-Jana-1018&repo=ConfiOrato-Ai&theme=react&border_color=61dafb&border_radius=12"/>
+  </a>
+
+</p>
+
+---
+
+## 📊 **GitHub Stats**
+
+<div align="center">
+  <img width="390" src="https://streak-stats.demolab.com/?user=Sayandip-Jana-1018&theme=react&border=61dafb&hide_border=true"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Sayandip-Jana-1018&show_icons=true&theme=react&hide_border=true&border_color=61dafb"/>
+</div>
+
 <br>
-<p align="center">
-  <strong>Web Development:</strong> <br>
-  <code><img title="HTML5" height="25" src="https://img.icons8.com/color/48/000000/html-5.svg"></code>
-  <code><img title="CSS3" height="28" src="https://img.icons8.com/color/48/000000/css3.png"></code>
-  <code><img title="JavaScript" height="25" src="https://img.icons8.com/color/48/000000/javascript.png"></code>
-  <code><img title="React" height="25" src="https://img.icons8.com/color/48/000000/react-native.png"></code>
-  <code><img title="Vue.js" height="23" src="https://img.icons8.com/color/48/000000/vue-js.png"></code>
-  <code><img title="Node.js" height="25" src="https://img.icons8.com/color/48/000000/nodejs.png"></code>
-  <code><img title="Express.js" height="25" src="https://img.icons8.com/color/48/000000/express.png"></code>
-  <code><img title="Bootstrap" height="25" src="https://img.icons8.com/bootstrap/48/000000/bootstrap.png"></code>
-  <code><img title="Tailwind CSS" height="25" src="https://img.icons8.com/color/48/000000/tailwindcss.png"></code>
-  <code><img title="Material UI" height="25" src="https://img.icons8.com/material-outlined/48/000000/material-design.png"></code>
-  <br>
-  <strong>Data Science & Machine Learning:</strong> <br>
-  <code><img title="Python" height="25" src="https://img.icons8.com/color/48/000000/python.png"></code>
-  <code><img title="Pandas" height="25" src="https://img.icons8.com/color/48/000000/pandas.png"></code>
-  <code><img title="NumPy" height="25" src="https://img.icons8.com/ios-filled/50/000000/numpy.png"></code>
-  <code><img title="Scikit-Learn" height="25" src="https://img.icons8.com/color/48/000000/scikit-learn.png"></code>
-  <code><img title="TensorFlow" height="25" src="https://img.icons8.com/color/48/000000/tensorflow.png"></code>
-  <code><img title="Keras" height="25" src="https://img.icons8.com/color/48/000000/keras.png"></code>
-  <code><img title="Matplotlib" height="25" src="https://img.icons8.com/color/48/000000/matplotlib.png"></code>
-  <code><img title="Seaborn" height="25" src="https://img.icons8.com/color/48/000000/seaborn.png"></code>
-  <br>
-  <strong>Database Technologies:</strong> <br>
-  <code><img title="MySQL" height="25" src="https://img.icons8.com/color/48/000000/mysql-logo.png"></code>
-  <code><img title="MongoDB" height="25" src="https://img.icons8.com/color/48/000000/mongodb.png"></code>
-  <code><img title="PostgreSQL" height="25" src="https://img.icons8.com/color/48/000000/postgreesql.png"></code>
-  <br>
-  <strong>Version Control:</strong> <br>
-  <code><img title="Git" height="25" src="https://img.icons8.com/color/48/000000/git.png"></code>
-  <code><img title="GitHub" height="25" src="https://img.icons8.com/material-outlined/48/000000/github.png"></code>
-  <br>
-  <strong>Tools & IDEs:</strong> <br>
-  <code><img title="Visual Studio Code" height="25" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"></code>
-  <code><img title="Jupyter Notebook" height="24" src="https://img.icons8.com/color/48/000000/jupyter.png"></code>
-  <code><img title="Vite" height="25" src="https://img.icons8.com/color/48/000000/vite.png"></code>
-</p>
 
-<hr>
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayandip-Jana-1018&layout=compact&theme=react&hide_border=true&border_color=61dafb"/>
+</div>
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Sayandip-Jana-1018&theme=react&border=61dafb&hide_border=true" alt="Streak Stats" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Sayandip-Jana-1018&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayandip-Jana-1018&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayandip-Jana-1018&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"/>
-<h2 align="center">👨‍💻 Projects 👨‍💻</h2>
-<br>
-<p align="center">
-  <a href="https://github.com/Sayandip-Jana-1018/Data-Science-Assignment-1" title="Data Science Assignment 1"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sayandip-Jana-1018&repo=Data-Science-Assignment-1&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/Sayandip-Jana-1018/FirstReactApp" title="FirstReactApp"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sayandip-Jana-1018&repo=FirstReactApp&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/Sayandip-Jana-1018/ThreeJS" title="ThreeJS"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sayandip-Jana-1018&repo=ThreeJS&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/Sayandip-Jana-1018/Todo-App" title="Todo App"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sayandip-Jana-1018&repo=Todo-App&theme=react&border_color=61dafb&border_radius=10"></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayandip-Jana-1018&theme=react-dark&hide_border=true&bg_color=20232a" width="100%"/>
+</div>
 
-<hr>
-<h2 align="center">📫 Reach Out to Me 📫</h2>
+---
+
+<h2 align="center">📬 Let's Connect</h2>
+
 <p align="center">
-  <a href="mailto:jsupriti3434@gmail.com">✉️ jsupriti3434@gmail.com</a>
+  <a href="mailto:jsupriti3434@gmail.com"><img height="40" src="https://img.icons8.com/fluency/48/gmail-new.png"/></a>
 </p>
 
 <p align="center">
-  <img width="300" src="images/contact.svg" alt="Contact">
+  <img width="300" src="images/contact.svg" alt="Contact"/>
 </p>
+
