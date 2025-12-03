@@ -1,138 +1,57 @@
-<!-- Beautiful Animated Intro -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00AEEF&center=true&vCenter=true&width=600&lines=Hello+There!+👋;I'm+Sayandip+Jana;Full+Stack+Developer+%26+ML+Enthusiast;Welcome+to+my+GitHub!">
-</h1>
-
-<!-- Socials -->
+<!-- Dark Banner -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/jsayandip2003/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.hackerrank.com/profile/jsupriti3434"><img height="30" src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
-  <a href="https://stackoverflow.com/users/23027011/sayandip-jana"><img height="30" src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
-  <a href="https://www.instagram.com/sj_sayandip/"><img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <img width="900" alt="banner" src="https://raw.githubusercontent.com/Sayandip-Jana-1018/sj_sayandip/main/images/banner-dark.svg">
 </p>
 
-<br>
+<h1 align="center">👋 Hi — I'm <span style="color:#7c3aed">Sayandip Jana</span></h1>
+<p align="center">Full Stack Developer • Data Science enthusiast • ML maker</p>
 
-<!-- About Section -->
-## 🌈 **About Me**
 <p align="center">
-  Hi! I'm <strong>Sayandip Jana</strong>, a passionate <strong>Full Stack Developer</strong> and <strong>Aspiring Data Scientist</strong> from India.<br><br>
-  
-  ✨ I love building real-world applications powered by AI & modern tech.<br>
-  🎓 Scored <strong>95% in Class XII</strong> and <strong>96% in Class X</strong> (Contai Public School).<br>
-  🎓 Currently pursuing <strong>B.Tech CSE</strong> at Lovely Professional University.<br>
-  💡 Always curious & continuously exploring Machine Learning, Deep Learning, Cloud & Scalable Backend Systems.<br><br>
-
-  📬 Reach me at: <strong><a href="mailto:jsupriti3434@gmail.com">jsupriti3434@gmail.com</a></strong>
+  <a href="https://www.linkedin.com/in/jsayandip2003/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Sayandip-Jana-1018"><img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub"/></a>
+  <a href="mailto:jsupriti3434@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
-<!-- Skills Section -->
-## 🚀 **Skills & Technologies**
+## ✨ About (Dark)
+- 🎓 B.Tech (CSE) | Lovely Professional University  
+- 🛠 Building full-stack apps + ML pipelines  
+- 📫 jsupriti3434@gmail.com
 
-### 🧑‍💻 **Web Development**
+---
+
+## 🌐 Tech Stack
+**Frontend:** React · Tailwind · Vite · Three.js  
+**Backend:** Node · Express · PostgreSQL · MongoDB  
+**ML:** Python · scikit-learn · TensorFlow · Keras
+
+---
+
+## ⭐ Projects (Dark Showcase)
 <p align="center">
-  <img height="30" src="https://img.icons8.com/color/48/html-5.png"/>
-  <img height="30" src="https://img.icons8.com/color/48/css3.png"/>
-  <img height="30" src="https://img.icons8.com/color/48/javascript.png"/>
-  <img height="30" src="https://img.icons8.com/color/48/react-native.png"/>
-  <img height="30" src="https://img.icons8.com/color/48/nodejs.png"/>
-  <img height="30" src="https://img.icons8.com/fluency/48/express-js.png"/>
-  <img height="30" src="https://img.icons8.com/color/48/tailwindcss.png"/>
-  <img height="30" src="https://img.icons8.com/color/48/bootstrap.png"/>
+  <a href="https://github.com/Sayandip-Jana-1018/AutoML"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sayandip-Jana-1018&repo=AutoML&theme=dark&border_radius=10" height="120" alt="AutoML"/></a>
+  <a href="https://github.com/Sayandip-Jana-1018/DiseaseX"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sayandip-Jana-1018&repo=DiseaseX&theme=dark&border_radius=10" height="120" alt="DiseaseX"/></a>
+  <a href="https://github.com/Sayandip-Jana-1018/ProctoAi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sayandip-Jana-1018&repo=ProctoAi&theme=dark&border_radius=10" height="120" alt="ProctoAi"/></a>
 </p>
-
-### 🤖 **Machine Learning / Data Science**
 <p align="center">
-  <img height="30" src="https://img.icons8.com/color/48/python.png"/>
-  <img height="30" src="https://img.icons8.com/color/48/pandas.png"/>
-  <img height="30" src="https://img.icons8.com/color/48/numpy.png"/>
-  <img height="30" src="https://img.icons8.com/color/48/scikit-learn.png"/>
-  <img height="30" src="https://img.icons8.com/color/48/tensorflow.png"/>
-  <img height="30" src="https://img.icons8.com/color/48/keras.png"/>
-  <img height="30" src="https://img.icons8.com/color/48/matplotlib.png"/>
-</p>
-
-### 🗄️ **Databases**
-<p align="center">
-  <img height="30" src="https://img.icons8.com/color/48/mysql-logo.png"/>
-  <img height="30" src="https://img.icons8.com/color/48/mongodb.png"/>
-  <img height="30" src="https://img.icons8.com/color/48/postgreesql.png"/>
-</p>
-
-### 🛠 **Tools & IDEs**
-<p align="center">
-  <img height="30" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
-  <img height="30" src="https://img.icons8.com/color/48/jupyter.png"/>
-  <img height="30" src="https://img.icons8.com/color/48/vite.png"/>
-  <img height="30" src="https://img.icons8.com/color/48/git.png"/>
-  <img height="30" src="https://img.icons8.com/material-outlined/48/github.png"/>
+  <a href="https://github.com/Sayandip-Jana-1018/PortFolio-SJ"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sayandip-Jana-1018&repo=PortFolio-SJ&theme=dark&border_radius=10" height="120" alt="Portfolio"/></a>
+  <a href="https://github.com/Sayandip-Jana-1018/ConfiOrato-Ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sayandip-Jana-1018&repo=ConfiOrato-Ai&theme=dark&border_radius=10" height="120" alt="ConfiOrato-Ai"/></a>
 </p>
 
 ---
 
-## 🔥 **Top Projects You Must Check Out**
-
+## 📊 GitHub (Dark)
 <p align="center">
-  
-  <!-- AutoML -->
-  <a href="https://github.com/Sayandip-Jana-1018/AutoML">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Sayandip-Jana-1018&repo=AutoML&theme=react&border_color=61dafb&border_radius=12"/>
-  </a>
-
-  <!-- DiseaseX -->
-  <a href="https://github.com/Sayandip-Jana-1018/DiseaseX">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Sayandip-Jana-1018&repo=DiseaseX&theme=react&border_color=61dafb&border_radius=12"/>
-  </a>
-
-  <!-- ProctoAi -->
-  <a href="https://github.com/Sayandip-Jana-1018/ProctoAi">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Sayandip-Jana-1018&repo=ProctoAi&theme=react&border_color=61dafb&border_radius=12"/>
-  </a>
-
-  <!-- Portfolio SJ -->
-  <a href="https://github.com/Sayandip-Jana-1018/PortFolio-SJ">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Sayandip-Jana-1018&repo=PortFolio-SJ&theme=react&border_color=61dafb&border_radius=12"/>
-  </a>
-
-  <!-- ConfiOrato AI -->
-  <a href="https://github.com/Sayandip-Jana-1018/ConfiOrato-Ai">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Sayandip-Jana-1018&repo=ConfiOrato-Ai&theme=react&border_color=61dafb&border_radius=12"/>
-  </a>
-
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sayandip-Jana-1018&show_icons=true&theme=nightowl" alt="GitHub Stats"/>
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Sayandip-Jana-1018&theme=nightowl" alt="Streak"/>
 </p>
 
 ---
 
-## 📊 **GitHub Stats**
-
-<div align="center">
-  <img width="390" src="https://streak-stats.demolab.com/?user=Sayandip-Jana-1018&theme=react&border=61dafb&hide_border=true"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Sayandip-Jana-1018&show_icons=true&theme=react&hide_border=true&border_color=61dafb"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayandip-Jana-1018&layout=compact&theme=react&hide_border=true&border_color=61dafb"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayandip-Jana-1018&theme=react-dark&hide_border=true&bg_color=20232a" width="100%"/>
-</div>
+## ✍️ Professional Summary
+Full Stack Developer and ML hobbyist who builds web-based ML apps and data-driven products. Interested in AutoML systems, medical AI, and deployable model pipelines. Always learning and open to meaningful internships/collabs.
 
 ---
 
-<h2 align="center">📬 Let's Connect</h2>
-
-<p align="center">
-  <a href="mailto:jsupriti3434@gmail.com"><img height="40" src="https://img.icons8.com/fluency/48/gmail-new.png"/></a>
-</p>
-
-<p align="center">
-  <img width="300" src="images/contact.svg" alt="Contact"/>
-</p>
-
+<p align="center">Designed with 💜 — Sayandip</p>
