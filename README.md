@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&height=70&lines=%E2%9A%A1+Hey%2C+I'm+Ankan+Basu;%E2%98%95+Java+Full+Stack+Engineer;%F0%9F%92%BB+MERN+Stack+Developer;%E2%98%81%EF%B8%8F+AWS+%26+DevOps+Enthusiast;%F0%9F%9A%80+Building+Scalable+Systems)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&height=70&lines=%E2%9A%A1+Hey%2C+I'm+Sayandip+Jana;%E2%98%95+Java+Full+Stack+Engineer;%F0%9F%92%BB+MERN+Stack+Developer;%E2%98%81%EF%B8%8F+AWS+%26+DevOps+Enthusiast;%F0%9F%9A%80+Building+Scalable+Systems)
 
 **`☕Full Stack Web`** · **`💻 MERN Stack`** · **`☁️ AWS & DevOps`** · **`🇮🇳 India`**
 
