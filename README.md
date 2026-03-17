@@ -10,9 +10,9 @@
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ankan123basu&label=PROFILE+VIEWS&color=00D9FF&style=flat-square)](https://github.com/ankan123basu)
-[![Followers](https://img.shields.io/github/followers/ankan123basu?label=FOLLOWERS&color=00D9FF&style=flat-square)](https://github.com/ankan123basu)
-[![Stars](https://img.shields.io/github/stars/ankan123basu?label=TOTAL+STARS&color=00D9FF&style=flat-square)](https://github.com/ankan123basu)
+[![Profile Views](https://komarev.com/ghpvc/?username=Sayandip-Jana-1018&label=PROFILE+VIEWS&color=00D9FF&style=flat-square)](https://github.com/Sayandip-Jana-1018)
+[![Followers](https://img.shields.io/github/followers/Sayandip-Jana-1018?label=FOLLOWERS&color=00D9FF&style=flat-square)](https://github.com/Sayandip-Jana-1018)
+[![Stars](https://img.shields.io/github/stars/Sayandip-Jana-1018?label=TOTAL+STARS&color=00D9FF&style=flat-square)](https://github.com/Sayandip-Jana-1018)
 
 </div>
 
@@ -31,7 +31,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212259377-06fca729-ae7a-480f-8aea-e67670108a1c.jpg" width="350" />
 
 ```java
-public class Ankan extends Developer {
+public class Sayandip extends Developer {
 
     String name     = "Sayandip Jana";
     String location = "India 🇮🇳";
@@ -176,13 +176,13 @@ public class Ankan extends Developer {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-git-main-akankshs-projects-296d3a31.vercel.app?user=ankan123basu&theme=tokyonight&hide_border=true" alt="Ankan's Streak" width="70%" />
+  <img src="https://github-readme-streak-stats-git-main-akankshs-projects-296d3a31.vercel.app?user=Sayandip-Jana-1018&theme=tokyonight&hide_border=true" alt="Ankan's Streak" width="70%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankan123basu&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayandip-Jana-1018&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
